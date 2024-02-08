@@ -1,0 +1,164 @@
+.top-heading{
+    font-size: 20px;
+    font-weight: 700;
+}
+.top-second-heading{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+.top-second-para{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.head-cad{
+    background-color: yellow!important;
+    border: none!important;
+    padding: 20px;
+}
+.yellow-img{
+    position: absolute;
+    top: 27px;
+    left: 15px;
+}
+.card-title{
+    font-size: 25px;
+}
+.card-text{
+    font-weight: 700;
+    font-size: 14px;
+}
+.head-cad-second{
+    background-color: skyblue!important;
+    border: none!important;
+    padding: 20px;
+}
+.head-cad-third{
+    background-color: pink!important;
+    border: none!important;
+    padding: 20px;
+}
+.top-para{
+    font-size: 14px;
+    font-weight: 700;
+}
+.third-cad{
+    border-left: 8px solid skyblue;
+    box-shadow: rgba(128, 128, 128, 0.35) 6px 0px;
+}
+.third-cad-head{
+    font-size: 18px;
+    margin-left: 7px;
+}
+.third-cad-para{
+    font-size: 12px;
+    margin-left: 7px;
+    font-weight: 500;
+}
+.med-div{
+    margin-top: 60px;
+    margin-left: 175px;
+}
+.img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+  .img-2 {
+    max-width: 100%;
+    max-height:100%;
+    float: right;
+  }
+  .faq-head{
+    font-size: 52px;
+    font-weight: bold;
+    margin-left: 84px;
+  }
+  .num-box{
+    background-color: #0037ff;
+    width: 30px;
+    margin-top: 30px;
+    float: left;
+  }
+  .tex-box{
+    padding-left: 60px;
+    margin-top: 30px;
+    font-weight: bold;
+    float: left;
+  }
+  .tex-box-2{
+    padding-left: 225px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 11px;
+  }
+  .faq-second-box{
+    background-color: lightgreen;
+  }
+  .num-box-2{
+    background-color: green;
+    width: 30px;
+    margin-top: 30px;
+    float: left;
+  }
+  .tex-box-second{
+    padding-left: 45px;
+    margin-top: 24px;
+    font-weight: bold;
+  }
+  .tex-box-third{
+    padding-left: 11px;
+    font-size: 12px;
+  }
+  .price-box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gray;
+    width: 30%;
+    border-radius: 10px;
+  }
+  .price-tex{
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .price-box-second{
+    border: 2px solid gray;
+    border-radius: 30px;
+    background-color:#ffffff;
+  }
+  .price-head{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gray;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  .price-box-third{
+    border: 2px solid gray;
+    border-radius: 30px;
+    background-color:black;
+    color: #ffffff;
+  }
+  .price-head-third{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gray;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: black;
+  }
+  .writing-btn{
+    background-color: #3F3EED;
+    color: #ffffff;
+    text-decoration:none;
+  }
+  .writing-btn:hover{
+    background-color: #3F3EED;
+    color: #ffffff;
+  }
